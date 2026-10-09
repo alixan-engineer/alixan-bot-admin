@@ -1,0 +1,11 @@
+{
+  "app": { "name": "Kaspi Bot Admin" },
+  "nav": { "homeSection": "Басты", "pagesSection": "Беттер", "home": "Басты бет", "groups": "Топтар", "users": "Пайдаланушылар", "logout": "Шығу" },
+  "auth": { "signIn": "Кіру", "signInDescription": "Kaspi Bot клиенттері мен пайдаланушыларын басқару", "submitSignIn": "Кіру", "password": "Құпиясөз", "failed": "Кіру мүмкін болмады" },
+  "common": { "cancel": "Бас тарту", "save": "Сақтау", "edit": "Өзгерту", "ok": "Түсінікті", "delete": "Жою", "create": "Құру", "add": "Қосу", "open": "Ашу", "copy": "Көшіру", "admin": "Әкімші", "worker": "Қызметкер", "login": "Логин", "password": "Құпиясөз" },
+  "user": { "language": "Тіл", "theme": "Тақырып", "themes": { "system": "Жүйелік", "light": "Жарық", "dark": "Қараңғы" }, "languages": { "ru": "Русский", "en": "English", "kk": "Қазақша" } },
+  "home": { "groups": "Топтар", "users": "Пайдаланушылар", "loadError": "Деректерді жүктеу мүмкін болмады" },
+  "groups": { "new": "Жаңа топ", "edit": "Топты өзгерту", "actions": "Топ әрекеттері", "name": "Топ атауы", "userName": "Аты", "usersCount": "пайдаланушы", "addUser": "Пайдаланушы", "copyNow": "Деректерді қазір көшіріңіз", "deleteTitle": "Топ жойылсын ба?", "deleteDescription": "«{name}» тобының барлық деректері қайтарымсыз жойылады.", "deleteUserTitle": "Пайдаланушы жойылсын ба?", "deleteUserDescription": "{phone} пайдаланушысы топқа кіре алмайды.", "loadError": "Топтарды жүктеу мүмкін болмады", "createError": "Топты құру мүмкін болмады", "updateError": "Топты өзгерту мүмкін болмады", "deleteError": "Топты жою мүмкін болмады" },
+  "users": { "search": "Аты, телефон, рөл немесе топ бойынша іздеу", "empty": "Пайдаланушылар табылмады", "actions": "Пайдаланушы әрекеттері", "editTitle": "Пайдаланушыны өзгерту", "newPassword": "Жаңа құпиясөз", "deleteTitle": "Пайдаланушы жойылсын ба?", "deleteDescription": "{phone} пайдаланушысы «{group}» тобынан жойылады.", "loadError": "Пайдаланушыларды жүктеу мүмкін болмады", "createError": "Пайдаланушыны құру мүмкін болмады", "updateError": "Пайдаланушыны өзгерту мүмкін болмады", "deleteError": "Пайдаланушыны жою мүмкін болмады" },
+  "validation": { "formTitle": "Деректер толтырылмаған", "formDescription": "Міндетті өрістерді толтырыңыз.", "required": "Міндетті өріс", "minLength": "Мән тым қысқа", "maxLength": "Мән тым ұзын", "pattern": "Формат дұрыс емес" }
+}

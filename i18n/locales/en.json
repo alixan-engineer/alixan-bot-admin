@@ -1,0 +1,11 @@
+{
+  "app": { "name": "Kaspi Bot Admin" },
+  "nav": { "homeSection": "Home", "pagesSection": "Pages", "home": "Dashboard", "groups": "Groups", "users": "Users", "logout": "Log out" },
+  "auth": { "signIn": "Sign in", "signInDescription": "Manage Kaspi Bot clients and users", "submitSignIn": "Sign in", "password": "Password", "failed": "Unable to sign in" },
+  "common": { "cancel": "Cancel", "save": "Save", "edit": "Edit", "ok": "Got it", "delete": "Delete", "create": "Create", "add": "Add", "open": "Open", "copy": "Copy", "admin": "Administrator", "worker": "Worker", "login": "Login", "password": "Password" },
+  "user": { "language": "Language", "theme": "Theme", "themes": { "system": "System", "light": "Light", "dark": "Dark" }, "languages": { "ru": "Русский", "en": "English", "kk": "Қазақша" } },
+  "home": { "groups": "Groups", "users": "Users", "loadError": "Unable to load data" },
+  "groups": { "new": "New group", "edit": "Edit group", "actions": "Group actions", "name": "Group name", "userName": "Name", "usersCount": "users", "addUser": "User", "copyNow": "Copy these credentials now", "deleteTitle": "Delete group?", "deleteDescription": "All data in “{name}” will be permanently deleted.", "deleteUserTitle": "Delete user?", "deleteUserDescription": "User {phone} will lose access to the group.", "loadError": "Unable to load groups", "createError": "Unable to create group", "updateError": "Unable to update group", "deleteError": "Unable to delete group" },
+  "users": { "search": "Search by name, phone, role or group", "empty": "No users found", "actions": "User actions", "editTitle": "Edit user", "newPassword": "New password", "deleteTitle": "Delete user?", "deleteDescription": "User {phone} will be removed from “{group}”.", "loadError": "Unable to load users", "createError": "Unable to create user", "updateError": "Unable to update user", "deleteError": "Unable to delete user" },
+  "validation": { "formTitle": "Missing details", "formDescription": "Fill in the required fields.", "required": "Required field", "minLength": "Value is too short", "maxLength": "Value is too long", "pattern": "Invalid format" }
+}
