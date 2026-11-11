@@ -16,3 +16,12 @@ export type User = {
 	role: UserRole;
 };
 export type CreatedUser = User & { password: string };
+
+export type GroupStore = {
+	_id: string;
+	storeId?: string | null;
+	name: string;
+	status: string;
+	authStatus: string;
+	isMain: boolean;
+};

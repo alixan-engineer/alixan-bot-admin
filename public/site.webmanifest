@@ -1,8 +1,8 @@
 {
 	"id": "/",
-	"name": "Kaspi Bot",
-	"short_name": "Kaspi Bot",
-	"description": "Управление магазинами, ценами и заказами Kaspi.kz.",
+	"name": "Admin",
+	"short_name": "Admin",
+	"description": "Управление группами и пользователями Kaspi Bot.",
 	"start_url": "/",
 	"scope": "/",
 	"lang": "ru-RU",

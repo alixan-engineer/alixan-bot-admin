@@ -5,7 +5,7 @@
 		>
 			<img
 				src="/icons/icon-512.png"
-				alt="Kaspi bot"
+				:alt="$t('app.name')"
 				class="size-12 object-cover"
 				loading="lazy"
 			/>

@@ -41,6 +41,8 @@ export default defineNuxtConfig({
 			{
 				families: { Inter: { wght: '200..900' } },
 				display: 'swap',
+				// Load fonts in the browser without fetching Google Fonts at startup/build.
+				download: false,
 				preload: false,
 			},
 		],

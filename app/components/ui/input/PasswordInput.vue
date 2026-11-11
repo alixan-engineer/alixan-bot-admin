@@ -12,7 +12,7 @@ interface PasswordInputProps {
 }
 
 const props = withDefaults(defineProps<PasswordInputProps>(), {
-	label: 'Password',
+	label: 'common.password',
 	autofocus: false,
 	min: undefined,
 	max: undefined,
